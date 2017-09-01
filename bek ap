@@ -1,1 +1,0 @@
-rsync --delete -a -e "ssh -p 1522" /var/www/html root@185.164.138.21:/root/f8resume.com --progress 
